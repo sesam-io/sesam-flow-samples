@@ -1,4 +1,4 @@
-# sesam-flow-samples
+# Sesam flow visualisations
 Project for testing different dataflow visualisations for Sesam
 
 Sample 1 - D3 graph showing all inncomming and outgoing pipes in real-time:
